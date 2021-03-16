@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="AppHostel.jnlp">
+  <information>
+    <title>AppHostel</title>
+    <vendor>Ana</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="AppHostel.jar" size="2445879" download="eager" />
+    <jar href="lib\Temporizador.jar" size="4697" download="eager" />
+    <jar href="lib\commons-beanutils-1.7.0.jar" size="188671" download="eager" />
+    <jar href="lib\commons-collections4-4.4.jar" size="751914" download="eager" />
+    <jar href="lib\commons-digester-2.1.jar" size="196768" download="eager" />
+    <jar href="lib\commons-logging-api-1.0.4.jar" size="26202" download="eager" />
+    <jar href="lib\derby.jar" size="3232770" download="eager" />
+    <jar href="lib\derbyclient.jar" size="588394" download="eager" />
+    <jar href="lib\derbynet.jar" size="272626" download="eager" />
+    <jar href="lib\groovy-all-2.0.1.jar" size="6191960" download="eager" />
+    <jar href="lib\hsqldb.jar" size="1592533" download="eager" />
+    <jar href="lib\itext-2.1.0.jar" size="1050691" download="eager" />
+    <jar href="lib\itextpdf-5.5.13.1.jar" size="2330916" download="eager" />
+    <jar href="lib\jasperreports-6.16.0.jar" size="5606029" download="eager" />
+    <jar href="lib\jasperreports-annotation-processors-6.16.0.jar" size="19340" download="eager" />
+    <jar href="lib\jasperreports-chart-customizers-6.16.0.jar" size="45032" download="eager" />
+    <jar href="lib\jasperreports-chart-themes-6.16.0.jar" size="180620" download="eager" />
+    <jar href="lib\jasperreports-custom-visualization-6.16.0.jar" size="129480" download="eager" />
+    <jar href="lib\jasperreports-fonts-6.16.0.jar" size="2480419" download="eager" />
+    <jar href="lib\jasperreports-functions-6.16.0.jar" size="34885" download="eager" />
+    <jar href="lib\jasperreports-javaflow-6.16.0.jar" size="5535656" download="eager" />
+    <jar href="lib\jasperreports-metadata-6.16.0.jar" size="9980" download="eager" />
+    <jar href="lib\javax.persistence-2.1.0.jar" size="162126" download="eager" />
+    <jar href="lib\jcommon-1.0.23.jar" size="330246" download="eager" />
+    <jar href="lib\jfreechart-1.0.19.jar" size="1565065" download="eager" />
+    <jar href="lib\joda-time-2.10.2.jar" size="642711" download="eager" />
+    <jar href="lib\log4j-1.2.15.jar" size="391834" download="eager" />
+    <jar href="lib\org.eclipse.persistence.antlr-2.5.2.jar" size="189645" download="eager" />
+    <jar href="lib\org.eclipse.persistence.asm-2.5.2.jar" size="271204" download="eager" />
+    <jar href="lib\org.eclipse.persistence.core-2.5.2.jar" size="5056217" download="eager" />
+    <jar href="lib\org.eclipse.persistence.jpa-2.5.2.jar" size="1364245" download="eager" />
+    <jar href="lib\org.eclipse.persistence.jpa.jpql-2.5.2.jar" size="1366247" download="eager" />
+    <jar href="lib\png-encoder-1.5.jar" size="10266" download="eager" />
+    <jar href="lib\spring-beans-3.2.18.RELEASE.jar" size="614434" download="eager" />
+    <jar href="lib\spring-core-3.2.18.RELEASE.jar" size="885560" download="eager" />
+    <jar href="lib\spring-expression-3.2.18.RELEASE.jar" size="196256" download="eager" />
+    <jar href="lib\xalan-2.7.1.jar" size="3176148" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="apphostel.Main"  name="AppHostel" />
+  <update check="always"/>
+</jnlp>
